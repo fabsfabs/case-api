@@ -8,7 +8,7 @@
 		        {"id":"2","val":"l","position":"back"},
 		        {"id":"3","val":"a","position":"front"},
 		        {"id":"4","val":"s","position":"front"},
-		        {"id":"5","val":"&ensp;","position":"front"},
+		        {"id":"5","val":" ","position":"front"},
 		        {"id":"6","val":"p","position":"front"},                
 		        {"id":"7","val":"l","position":"back"},
 		        {"id":"8","val":"a","position":"back"},
