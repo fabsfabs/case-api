@@ -32,10 +32,10 @@
 		{
 		    "name":"eden",
 		    "word":[    
-		        {"id":"1","val":"e","position":"front"},
+		        {"id":"1","val":"e","position":"back"},
 		        {"id":"2","val":"d","position":"front"},
 		        {"id":"3","val":"e","position":"front"},
-		        {"id":"4","val":"n","position":"front"}
+		        {"id":"4","val":"n","position":"back"}
 		    ],
 		    "color": "rgb(0, 31, 188)",
 		    "images": "https://www.acantocomunicazione.it/newsite/assets/placeholder/eden.png",
