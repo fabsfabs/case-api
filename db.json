@@ -16,7 +16,7 @@
 		    ],
 		    "color": "rgb(66, 66, 185)",
 		    "images": "/assets/images/slidercase/placeholder/atlasplan.png",
-		    "active": "active"
+		    "active": " active"
 		},
 		{
 		    "name":"hsd",
