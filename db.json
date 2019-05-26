@@ -15,7 +15,7 @@
 		        {"id":"9","val":"n","position":"back"}
 		    ],
 		    "color": "rgb(66, 66, 185)",
-		    "images": "atlasplan",
+		    "images": "https://www.acantocomunicazione.it/newsite/assets/placeholder/atlasplan.png",
 		    "active": " active"
 		},
 		{
@@ -26,7 +26,7 @@
 		        {"id":"6","val":"d","position":"front"}
 		    ],
 		    "color": "rgb(0, 186, 34)",
-		    "images": "hsd",
+		    "images": "https://www.acantocomunicazione.it/newsite/assets/placeholder/hsd.png",
 		    "active": ""
 		},
 		{
@@ -38,7 +38,7 @@
 		        {"id":"4","val":"n","position":"front"}
 		    ],
 		    "color": "rgb(0, 31, 188)",
-		    "images": "eden",
+		    "images": "https://www.acantocomunicazione.it/newsite/assets/placeholder/eden.png",
 		    "active": ""
 		}		
 	]
