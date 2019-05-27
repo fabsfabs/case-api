@@ -16,7 +16,8 @@
 		    ],
 		    "color": "rgb(61, 51, 48)",
 		    "images": "https://www.acantocomunicazione.it/newsite/assets/placeholder/atlasplan.png",
-		    "active": " active"
+		    "active": " active",
+		    "slug": "atlasplan"
 		},
 		{
 		    "name":"hsd",
@@ -27,7 +28,8 @@
 		    ],
 		    "color": "rgb(0, 31, 188)",
 		    "images": "https://www.acantocomunicazione.it/newsite/assets/placeholder/hsd.png",
-		    "active": ""
+		    "active": "",
+		    "slug": "hsd"
 		},
 		{
 		    "name":"eden",
@@ -39,7 +41,8 @@
 		    ],
 		    "color": "rgb(0, 186, 34)",
 		    "images": "https://www.acantocomunicazione.it/newsite/assets/placeholder/eden.png",
-		    "active": ""
+		    "active": "",
+		    "slug": "eden"
 		}		
 	]
 }
