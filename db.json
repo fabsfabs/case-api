@@ -2,6 +2,7 @@
 	"case": [
 		{
 		    "name":"atlas plan",
+		    "project":"Full Service",			
 		    "word":[    
 		        {"id":"0","val":"a","position":"back"},
 		        {"id":"1","val":"t","position":"back"},
@@ -21,6 +22,7 @@
 		},
 		{
 		    "name":"hsd",
+		    "project":"Production Interior",			
 		    "word":[    
 		        {"id":"3","val":"h","position":"front"},
 		        {"id":"4","val":"s","position":"front"},
@@ -33,6 +35,7 @@
 		},
 		{
 		    "name":"eden",
+		    "project":"Brand Identity",			
 		    "word":[    
 		        {"id":"1","val":"e","position":"back"},
 		        {"id":"2","val":"d","position":"front"},
@@ -43,6 +46,40 @@
 		    "images": "https://www.acantocomunicazione.it/newsite/assets/placeholder/eden.png",
 		    "active": "",
 		    "slug": "eden"
+		},
+		{
+		    "name":"Fiam",
+		    "project":"Ghost",
+		    "word":[    
+		        {"id":"1","val":"f","position":"back"},
+		        {"id":"2","val":"i","position":"front"},
+		        {"id":"3","val":"a","position":"front"},
+		        {"id":"4","val":"m","position":"back"}
+		    ],
+		    "color": "rgb(2, 26, 134)",
+		    "images": "https://www.acantocomunicazione.it/newsite/assets/placeholder/eden.png",
+		    "active": "",
+		    "slug": "fiam"
+		},
+		{
+		    "name":"Team System",
+		    "project":"Journey",
+		    "word":[    
+		        {"id":"1","val":"t","position":"back"},
+		        {"id":"2","val":"e","position":"back"},
+		        {"id":"3","val":"a","position":"front"},
+		        {"id":"4","val":"m","position":"front"},
+		        {"id":"5","val":"s","position":"front"},
+		        {"id":"6","val":"y","position":"front"},
+		        {"id":"7","val":"s","position":"front"},
+		        {"id":"8","val":"t","position":"front"},	
+		        {"id":"9","val":"e","position":"back"},
+		        {"id":"10","val":"m","position":"back"}			    
+		    ],
+		    "color": "rgb(10, 186, 4)",
+		    "images": "https://www.acantocomunicazione.it/newsite/assets/placeholder/eden.png",
+		    "active": "",
+		    "slug": "team-system"
 		}		
 	]
 }
